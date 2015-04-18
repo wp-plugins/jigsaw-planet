@@ -1,6 +1,6 @@
 === Jigsaw Planet ===
 Contributors: jigsawplanet, ramiy
-Tags: Jigsaw Planet, puzzles, embed
+Tags: Jigsaw Planet, jigsaw, planet, puzzle, puzzles, embed, oembed
 Requires at least: 3.5
 Tested up to: 4.1.1
 Stable tag: 1.0
@@ -11,9 +11,9 @@ Embed puzzles from JigsawPlanet.com into your WordPress site
 
 == Description ==
 
-[Jigsaw Planet](http://www.JigsawPlanet.com/) is an ideal place for playing free online jigsaw puzzles. [Create puzzles](http://www.jigsawplanet.com/?rc=createpuzzle) from your images, collect, exhibit and share them with your friends.
+[Jigsaw Planet](https://www.jigsawplanet.com/) is an ideal place for playing free online jigsaw puzzles. [Create puzzles](https://www.jigsawplanet.com/?rc=createpuzzle) from your images, collect, exhibit and share them with your friends.
 
-Using this plugin you can embed [jigsaw planet puzzles](http://JigsawPlanet.com/explore) into your WordPress site using nothing but the URL. Just copy the puzzle URL and paste it to the post text editor. Then simply click over to the visual editor to confirm that it loads properly.
+Using this plugin you can embed [jigsaw planet puzzles](https://www.jigsawplanet.com/?rc=explore&tp=3) into your WordPress site using nothing but the URL. Just copy the puzzle URL and paste it to the post text editor. Then simply click over to the visual editor to confirm that it loads properly.
 
 = Usage =
 
@@ -50,6 +50,6 @@ For advanced puzzle embed, use the `[embed]` shortcode to set max `width` and ma
 
 == Changelog ==
 
-= 1.0 =
+= 1.0 (2015-04-18) =
 * Initial release
-* Register embed handler.
+* Register oEembed provider.
