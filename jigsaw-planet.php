@@ -3,7 +3,7 @@
 Plugin Name: Jigsaw Planet
 Plugin URI:  https://wordpress.org/plugins/jigsaw-planet/
 Description: Embed puzzles from JigsawPlanet.com into your WordPress site
-Version:     1.0
+Version:     1.1
 Author:      Rami Yushuvaev
 Author URI:  http://GenerateWP.com/
 Text Domain: jigsaw-planet
@@ -22,7 +22,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 
 /*
- * Jigsaw Planet oEmbed
+ * Register oEmbed provider
  */
 function jigsaw_planet_oembed_provider() {
 
