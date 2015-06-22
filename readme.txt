@@ -11,9 +11,19 @@ Embed puzzles from JigsawPlanet.com into your WordPress site
 
 == Description ==
 
+Create playful puzzles from images and embed them to your WordPress site using [JigsawPlanet.com](https://www.jigsawplanet.com/) online tool.
+
+= About Jigsaw Planet =
+
 [Jigsaw Planet](https://www.jigsawplanet.com/) is an ideal place for playing free online jigsaw puzzles. [Create puzzles](https://www.jigsawplanet.com/?rc=createpuzzle) from your images, collect, exhibit and share them with your friends.
 
+= Jigsaw Planet WordPress Plugin =
+
 Using this plugin you can embed [jigsaw planet puzzles](https://www.jigsawplanet.com/?rc=explore&tp=3) into your WordPress site using nothing but the URL. Just copy the puzzle URL and paste it to the post text editor. Then simply click over to the visual editor to confirm that it loads properly.
+
+= More Information =
+
+For any questions or more information, please [contact us](https://www.jigsawplanet.com/?rc=contact).
 
 == Installation ==
 
